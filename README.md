@@ -1,4 +1,5 @@
-# What Drives Smartphone Prices? Feature Analysis Across Price Tiers
+# What Drives Smartphone Prices? 
+# Feature Analysis Across Price Tiers
 
 Analysis of 980 smartphones and 20+ hardware specs to find which feature combinations best explain price, and whether the answer changes between budget, mid-range and flagship phones.
 
