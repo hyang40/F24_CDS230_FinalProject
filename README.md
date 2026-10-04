@@ -1,4 +1,5 @@
-# F24_CDS230_FinalProjec# What Drives Smartphone Prices? Feature Analysis Across Price Tiers
+# F24_CDS230_FinalProjec
+# What Drives Smartphone Prices? Feature Analysis Across Price Tiers
 
 Analysis of 980 smartphones and 20+ hardware specs to find which feature combinations best explain price, and whether the answer changes between budget, mid-range and flagship phones.
 
@@ -83,10 +84,10 @@ Analysis of 980 smartphones and 20+ hardware specs to find which feature combina
 
 ## My Role
 
-- **Data preparation (lead):** loaded and audited the dataset, backfilled missing specs, filtered brands and removed outliers
+- **Data preparation:** loaded and audited the dataset, backfilled missing specs, filtered brands and removed outliers
 - **Price-tier framework:** designed the Low/Mid/High percentile segmentation that structured the rest of the analysis
 - **Tier-level feature analysis:** built the categorical, continuous and binary analyses for each tier and their visualizations
-- **Multiple linear regression (co-lead):** built and evaluated the overall and tier-specific multi-feature models
+- **Multiple linear regression:** built and evaluated the overall and tier-specific multi-feature models
 
 ## Tech Stack
 
